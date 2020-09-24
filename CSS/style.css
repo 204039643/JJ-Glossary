@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+  margin: 1%;
+  border-color: aqua;
+  border-style: solid;
+  border-top: 0px;
+  border-right: 0px;
+  border-left: 0px;
+  font-weight: bolder;
+}
+img {
+    margin-left: 20px;
+}
+
+p {
+  font-size: 14pt;
+  margin-left: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+strong {
+  font-size: 16pt;
+}
+
+footer {
+background-color: teal;
+}
